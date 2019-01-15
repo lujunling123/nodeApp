@@ -1,3 +1,4 @@
+## 使用node.js + mongon 写的一个简单的系统项目
 ## 克隆项目 git clone https://github.com/lujunling123/nodeApp.git
 ## 进入到当前项目 cd nodeApp
 ## 安装依赖 npm install 
