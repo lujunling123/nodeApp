@@ -3,6 +3,7 @@
 ## 进入到当前项目 cd nodeApp
 ## 安装依赖 npm install 
 ## 启动服务 nodemon
+## 本地打开 http://localhost:5000 确保安装mongon 数据库以及打开数据库服务
 
 ## 所安装的依赖
 #### nodemon 热部署
