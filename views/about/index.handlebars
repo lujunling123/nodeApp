@@ -1,0 +1,18 @@
+{{#each abouts}}
+    <div  style="margin: 20px auto;width: 90%">
+        <div href="#" class="list-group-item list-group-item-action flex-column align-items-start">
+            <div class="d-flex w-100 justify-content-between">
+                <h5 class="mb-1">课程:{{selectA}}</h5>
+                <small>说明:{{text}}</small>
+            </div>
+            <p class="mb-1">email地址:{{email}}</p>
+        </div>
+        <a class="btn btn-danger btn-sm btn-block" href="/about/edit/{{id}}">编辑</a>
+        <form method="POST" action="/abouts/{{id}}?_method=DELETE">
+            <input type="hidden" name="_method" value="DELETE">
+            <button type="submit" class="btn btn-dark btn-sm btn-block">删除</button>
+        </form>
+    </div>
+{{else}}
+    <h4 style="text-align: center">您暂无课程，马上去<a href="/about/add">添加</a>？</h4>
+{{/each}}
