@@ -5,7 +5,7 @@
 #### 启动服务 nodemon
 #### 本地打开 http://localhost:5000 确保安装mongon 数据库以及打开数据库服务
 
-## windows 安装mongon数据库 [点击查看Windows安装方法](https://github.com/lujunling123/nodeApp/blob/master/Windows%E5%AE%89%E8%A3%85mongodb.pdf)
+## windows 安装mongon数据库 [点击查看安装方法](https://github.com/lujunling123/nodeApp/blob/master/Windows%E5%AE%89%E8%A3%85mongodb.pdf)
 #### 安装成功后 进入到安装目录\bin\ 点击mongod.exe 启动服务
 #### 使用 进入到安装目录\bin\ 点击mongo.exe  便可进行数据库操作命令
 #### show dbs 查看数据库
