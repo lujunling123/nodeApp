@@ -1,3 +1,7 @@
+## git clone https://github.com/lujunling123/nodeApp.git
+## cd nodeApp
+## npm install 
+## nodemon
 
 ## 所安装的依赖
 ## nodemon 热部署
