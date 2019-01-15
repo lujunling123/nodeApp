@@ -10,7 +10,7 @@
 #### 使用 进入到安装目录\bin\ 点击mongo.exe  便可进行数据库操作命令
 #### show dbs 查看数据库
 #### use xxx  进入到xxx数据库
-#### show collections 显示表操作
+#### show collections 显示表
 #### bd.tables.find() 查询表操作
 
 ## 所安装的依赖
