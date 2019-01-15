@@ -5,6 +5,7 @@
 ## 启动服务 nodemon
 ## 本地打开 http://localhost:5000 确保安装mongon 数据库以及打开数据库服务
 ### windows 安装mongon数据库 
+https://github.com/lujunling123/nodeApp/blob/master/Windows%E5%AE%89%E8%A3%85mongodb.pdf
 
 ## 所安装的依赖
 #### nodemon 热部署
